@@ -1,0 +1,10 @@
+# Ignore the generated user data CSV file
+userdata.csv
+
+# Ignore compiled binary folders
+bin/
+
+# Optional: Ignore IDE specific configuration files (cleaner repository)
+.classpath
+.project
+.settings/
