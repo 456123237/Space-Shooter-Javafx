@@ -16,11 +16,11 @@ Space Shooter is a 2D vertical scrolling arcade game built using Java and JavaFX
 
 |                 Login                 |                   Register                   |
 | :-----------------------------------: | :------------------------------------------: |
-| ![Login Screen](image/README/login.png) | ![Selection Screen](image/README/Register.png) |
+| ![Login Screen](image/README/Login.png) | ![Selection Screen](image/README/Register.png) |
 
 |                Level Selection                |                  Level 1                  |
 | :-------------------------------------------: | :----------------------------------------: |
-| ![Selection Screen](image/README/selection.png) | ![Selection Screen](image/README/Level1.png) |
+| ![Selection Screen](image/README/Selection.png) | ![Selection Screen](image/README/Level1.png) |
 |               **Level 2**               |             **Level 3**             |
 |  ![Selection Screen](image/README/Level2.png)  | ![Selection Screen](image/README/Level3.png) |
 |               **Level 4**               |             **Level 5**             |
