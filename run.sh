@@ -45,8 +45,12 @@ fi
 # =============================================================================
 
 echo "Starting Space Shooter..."
-# Runs the application.Main class
-# -cp bin: Looks for compiled classes in 'bin'
+
+# 🌟 新增：强制使用软件渲染，修复 WSL 图形报错
+export LIBGL_ALWAYS_SOFTWARE=1
+export QUANTUM_ALWAYS_SOFTWARE=1
+export PRISM_ORDER=sw
+
 java --module-path "$PATH_TO_FX" \
      --add-modules javafx.controls,javafx.media \
      -cp bin \
